@@ -34,11 +34,11 @@ nano .env
 ```
 ### Açılan env dosyasının içinde bazı değişiklikler yapacağız
 ### Kullanacğınız cüzdanın private keyini ekliyorsunuz
-### Alcemy den mainnet ve sepolia rpc ve wss lerinizi alıp onlarıda ekleyin
+### Alchemy den mainnet ve sepolia rpc ve wss lerinizi alıp onlarıda ekleyin
 
 ![image](https://github.com/user-attachments/assets/b6841021-c169-4bcf-8703-240a985208d4)
 
-### bilgileriniz kaydettiğinize göre ctrl x ve sonra y ile çıkın
+### Bilgileriniz kaydettiğinize göre ctrl x ve sonra y ile çıkın
 ### Artık başlatalım
 ```
 docker compose up -d
