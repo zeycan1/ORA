@@ -44,6 +44,7 @@ nano .env
 docker compose up -d
 ```
 ### Bu kısımbiraz uzun sürüyor. Sunucunuzun özelliklerine bağlı 5-10 dakika sürüyor
+
 #### Artık loglarımıza bakabiliriz
 ```
 docker logs -f ora-tora -n 100
