@@ -1,6 +1,10 @@
 # ORA
+![image](https://github.com/user-attachments/assets/fd448aaf-8731-4e25-ae87-b3e6fad81d54)
 
-### SİSTEM GEREKSİNİMLERİ
+SİSTEM GEREKSİNİMLERİ:
+
+EN az 8GB RAM
+Önerilen 12GB RAM
 
 
 
