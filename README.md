@@ -51,7 +51,3 @@ docker compose up -d
 docker logs -f ora-tora -n 100
 ```
 
-### Şekildeki gibi loglarınız görüyorsanız nodeniz çalışıyor demektir
-
-
-![image](https://github.com/user-attachments/assets/ae8654cc-1c9e-42d9-b6ec-a2b0a12fb2c0)
